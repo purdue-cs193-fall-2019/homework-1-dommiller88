@@ -2,19 +2,20 @@
 
 This is my first assignment for cs193! I hope you like it.  I sure love it.  Today I was almost late to this class but luckily I was not. Now I am in the back of the classroom typing this.  That was a really good story, I know. If you like, I can tell it again in person. Regardless, this is my website.
 
+
+
 ### List
 I made a list of all the colors I know.
+```markdown
+- Blue
+- Green
+- Red
+- Yellow
+- Orange
+- Magenta
+- Aquamarine
+- Turquoise
 
-# List
--Blue
--Green
--Red
--Yellow
--Orange
--Magenta
--Aquamarine
--Turquoise
--etc.
 
 
 ### Jekyll Themes
