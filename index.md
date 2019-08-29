@@ -1,32 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to Dom's Website
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is my first assignment for cs193! I hope you like it.  I sure love it.  Today I was almost late to this class but luckily I was not. Now I am in the back of the classroom typing this.  That was a really good story, I know. If you like, I can tell it again in person. Regardless, this is my website.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### List
+I made a list of all the colors I know.
 
-### Markdown
+# List
+-Blue
+-Green
+-Red
+-Yellow
+-Orange
+-Magenta
+-Aquamarine
+-Turquoise
+-etc.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
